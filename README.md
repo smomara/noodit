@@ -1,5 +1,5 @@
 # noobit (NOOb eDITor): a simple, nooby editor
-Welcome to noodit, a straightforward and minimalistic text editor built in C. This project was sparked by an inspiration from an ![article](https://austinhenley.com/blog/challengingprojects.html) suggesting the creation of a text editor.
+Welcome to noodit, a straightforward and minimalistic text editor built in C. This project was inspired by an ![article](https://austinhenley.com/blog/challengingprojects.html) suggesting the creation of a text editor.
 
 Currently, noodit is a terminal-based text editor. Plans for a GUI version are on the horizon, but for now enjoy the simplicity and effectiveness of this command-line tool.
 
